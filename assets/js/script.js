@@ -4,7 +4,7 @@ let firstCard, secondCard;
 let lockBoard = false;
 let tentativas = 0;
 let acertos = 0;
-let numMaxTentativas = 6;
+let numMaxTentativas = 4;
 let maxAcertos = 6;
 let spanTentativa = document.getElementById('tentativa');
 let spanAcerto = document.getElementById('acerto');
